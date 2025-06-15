@@ -1,3 +1,7 @@
+
+![udemy poster (2)](https://github.com/user-attachments/assets/4e908cec-af6b-449d-a3ea-286fd96c33e1)
+
+
 # Stock Portfolio Lab – Google Sheets Add-on
 
 **Stock Portfolio Lab** is a Google Sheets add-on built by **Sudeep Suresh** as part of the *Stock Market Basics & Mindset – Made Simple, Fun & Engaging* Udemy course.
