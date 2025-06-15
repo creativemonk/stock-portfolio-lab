@@ -19,9 +19,10 @@
 
 ---
 
-## 🔐 Privacy & Data Use
+## 🔐 Privacy & Terms
 Your data stays in your own Google Sheets.  
-See [Privacy Policy](https://github.com/creativemonk/stock-portfolio-lab/blob/main/privacy-policy.md)
+- 📄 [Privacy Policy](https://github.com/creativemonk/stock-portfolio-lab/blob/main/privacy-policy.md)  
+- 📜 [Terms of Service](https://github.com/creativemonk/stock-portfolio-lab/blob/main/terms.md)
 
 ---
 
