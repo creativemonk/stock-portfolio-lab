@@ -1,4 +1,4 @@
-# Terms of Service – Stock Portfolio Lab (Google Sheets Add-on)
+# Terms of Service – Stock Portfolio Lab (Google Sheets™ Add-on)
 
 **Effective Date:** 15 June 2025
 
@@ -21,3 +21,5 @@ These terms may be updated from time to time. Continued use of the Add-on consti
 
 ## 6. Contact
 For any questions regarding these terms, please contact: **monktownaxie@gmail.com**
+
+Google Sheets™ is a trademark of Google LLC.
